@@ -1,7 +1,6 @@
 # ejercicios sobre variables
-#tipos de datos
-
-
+# tipos de datos
+""""
 var_1 = "hola mundo"
 var_2 = "sandra"
 num1 = 12
@@ -53,3 +52,23 @@ text2 = "eso es 'comillas simples' todo amigos"
 print(texto)
 print(text)
 print(text2)
+
+
+num1 = 3
+num2 = 3.5
+text = "hola, pablo"
+verdadero = True
+
+print(type(num1),type(num2),type(text),type(verdadero))
+"""
+
+
+x = "Lionel Messi"
+y = 38
+z = "Soccerplayer"
+
+print(x)
+print(y)
+print(z)
+
+print(x +" " + "is", y, "years old" + " " + "and he is a " + z)
